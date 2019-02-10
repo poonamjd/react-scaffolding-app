@@ -1,0 +1,1 @@
+export const Movies = fetch("https://thoughtworksreactreduxmovies.firebaseio.com/movies.json");
